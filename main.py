@@ -1,3 +1,4 @@
-print("Hello, Wortd!")
 print("Hello, World!")
-print("Hwe weo, World!")
+print("Hello, World!")
+print("Hello, World!")
+print(int(input("Enter a number: ")))
