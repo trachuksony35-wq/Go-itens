@@ -3,7 +3,6 @@
 x = float(input("Введіть координату X:"))
 y = float(input("Введіть координату Y:"))
 
-# Check Y first, then use X to distinguish the quadrants.
 if y > 0:
     if x > 0:
         print("Точка знаходиться у I чверті.")
